@@ -1,0 +1,4 @@
+[submodule "Snappier"]
+	path = Snappier
+	url = github.com:/gfody/Snappier
+	branch = target-net481-clean
